@@ -1,0 +1,10 @@
+# ninja log v7
+16	550	8141828589576193	CMakeFiles/sbom_parser_lib.dir/src/parser.cpp.obj	2fd6182e00b703d0
+552	604	8141828595025018	sbom_parser_lib.lib	4163d333dd3b24a
+22	989	8141828589760219	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	21e53408c01afb88
+32	1035	8141828589840709	CMakeFiles/sbom_parser_tests.dir/tests/test_parser.cpp.obj	6970920aa3a7a12d
+9	2193	8141828589576193	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	8e94630be7f3a9fa
+2195	2269	8141828611476502	lib/gtest.lib	ed6f2def721752bb
+2269	2312	8141828612230037	lib/gtest_main.lib	d81b58fbb2cd720e
+8	449	8141829582018647	CMakeFiles/sbom_parser_app.dir/app/main.cpp.obj	8821b34d9705ffcf
+450	808	8141829586432166	sbom_parser_app.exe	8e2d4bdbc4dc8408

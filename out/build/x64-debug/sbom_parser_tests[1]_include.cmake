@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Кирилл/Desktop/sbom_parser/out/build/x64-debug/sbom_parser_tests[1]_tests.cmake")
+  include("C:/Users/Кирилл/Desktop/sbom_parser/out/build/x64-debug/sbom_parser_tests[1]_tests.cmake")
+else()
+  add_test(sbom_parser_tests_NOT_BUILT sbom_parser_tests_NOT_BUILT)
+endif()

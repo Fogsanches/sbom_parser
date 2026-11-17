@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Кирилл/Desktop/sbom_parser/out/build/x64-debug/CMakeFiles/sbom_parser_app.dir/embed.manifest"
